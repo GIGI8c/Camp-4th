@@ -374,7 +374,7 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0.5
-    functionName: Dead
+    functionName: DestoryCharacter
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
